@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">KotlinApplication</string>
+    <string name="photo">Photo</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="phone_number_2">Phone number 2</string>
+    <string name="email">Email</string>
+    <string name="email2">Email2</string>
+    <string name="description">Description</string>
+    <string name="contact_list_title">Список контактов</string>
+    <string name="contact_details_title">Детали контакта</string>
 </resources>
